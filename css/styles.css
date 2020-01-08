@@ -1,0 +1,17 @@
+.container{
+  width: 1000px;
+}
+
+.column{
+  float: left;
+  margin: 50px;
+  width: 400px;
+}
+
+img{
+  width: 400px;
+}
+
+.contact{
+  float: left;
+}
