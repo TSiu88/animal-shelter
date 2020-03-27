@@ -1,7 +1,6 @@
-# _[My First Webpage](https://github.com/TSiu88/animal-shelter)_
-#### _[Live Site Link](https://tsiu88.github.io/animal-shelter/)_
+# _[Animal Shelter](https://github.com/TSiu88/animal-shelter)_
 
-#### _First HTML Exercise, 01.08.2020_
+#### _Cascading CSS Exercise, 01.08.2020_
 
 #### By _**Tiffany Siu and Andriy Veremyeyev**_
 
